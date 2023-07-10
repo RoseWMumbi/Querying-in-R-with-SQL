@@ -1,11 +1,7 @@
-####start of header####
----
-title: "Querying in R with SQL"
-author: "Rose Mumbi"
-date: "June 28, 2023"
-email: "mumbirosew@gmail.com"
----
-###End of header###
+#title: "Querying in R with SQL"
+#author: "Rose Mumbi"
+#date: "June 28, 2023"
+#email: "mumbirosew@gmail.com"
  
 # load the sqldf package needed to run SQL queries in R   
 library(sqldf)
